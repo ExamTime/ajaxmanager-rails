@@ -1,5 +1,5 @@
 module Ajaxmanager
   module Rails
-    VERSION = "0.0.1"
+    VERSION = "3.12"
   end
 end
