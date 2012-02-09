@@ -10,4 +10,6 @@ Add the following to your GemFile:
 Then add the following to your application.js manifest:
 `//= require ajaxmanager`
 
+Full documentation for Ajaxmanager can be found at http://www.protofunc.com/scripts/jquery/ajaxManager/
+
 Don't forget to run `bundle update` after upgrading to the latest gem version to ensure it's used by your rails app.
