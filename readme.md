@@ -8,6 +8,6 @@ Add the following to your GemFile:
 `gem 'ajaxmanager-rails'
 
 Then add the following to your application.js manifest:
-`//= require ajaxmanager-rails`
+`//= require ajaxmanager`
 
 Don't forget to run `bundle update` after upgrading to the latest gem version to ensure it's used by your rails app.

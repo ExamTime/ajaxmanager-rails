@@ -1,7 +1,6 @@
-require "ajaxmanager-rails/version"
-
 module Ajaxmanager
   module Rails
-    # Your code goes here...
-  end
+    require "ajaxmanager-rails/engine"
+    require "ajaxmanager-rails/version"
+  end  
 end
